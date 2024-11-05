@@ -40,4 +40,4 @@ Before diving into competitive programming, it’s essential to build a strong f
 
 To use it on Your Machine
 ```
-https://github.com/0xAhmd/C-.git
+git clone https://github.com/0xAhmd/Cpp-Stage1.git
